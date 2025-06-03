@@ -60,3 +60,9 @@ Lưu ý:
 - Tất cả dữ liệu sẽ mất sau khi tắt chương trình (không có lưu file).
 - Hãy đảm bảo nhập thời gian đúng định dạng.
 - Ưu tiên càng cao thì số càng lớn (10 là cao nhất).
+
+
+Testcases:
+---------
+![output1](images/output1.jpg)
+![output2](images/output2.jpg)
